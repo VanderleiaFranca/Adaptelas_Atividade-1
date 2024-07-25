@@ -1,0 +1,10 @@
+Primeira aula do Adaptelas 2024.
+
+Começa com uma introdução da Adapti e do Adaptelas.
+A primeira aula fala sobre Git e GitHub, posteriormente é feita a instalação destes e do VS Code.
+Acredito que foi um bom começo, com boas explicações, paciência para tirar dúvidas durante a aula e 
+principalmente disponibilidade a sanar dúvidas e prestar ajuda no WhatsApp.
+
+Espero com esse curso dar um ponta pé inicial no aprendizado para me tornar uma desenvolverdora front-end.
+É claro que também espero conseguir horas para Atividade Complementar para o curso de Engenharia da Computação.
+Enfim, espero que tenhamos um percurso tranquilo e com final bem sucedido.
